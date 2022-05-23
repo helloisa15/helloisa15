@@ -1,0 +1,5 @@
+- # Sobre mim 
+-  👋 Ola me chamo @helloisa15
+- 👀 estou interresado em aprender a programar novas linguagens 
+- 💞️ eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scrach
+- 📫 meu email de contato é helloisa.almeida@escola.pr.gov.br
